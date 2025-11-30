@@ -1,0 +1,26 @@
+.item-detail-container {
+  min-height: 100vh;
+  background-color: #f9fafb;
+  padding: 2rem;
+
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .product-item {
+    max-width: 600px;
+    margin: 2rem auto;
+
+    img {
+      height: 500px;
+    }
+  }
+}
+
+.loading-message {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #6b7280;
+  font-size: 1.125rem;
+}

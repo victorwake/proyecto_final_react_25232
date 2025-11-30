@@ -1,0 +1,13 @@
+.item-list-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: #f9fafb;
+  align-items: center;
+  justify-content: center;
+
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+}
